@@ -33,4 +33,5 @@ The Jupyter notebooks for each assignment can be found [here](assignments)
 
 ### *Resources*
 * [Python for Data Analysis by Wes McKinney](https://librarycatalog.unh.edu/search~S5?/Ypython+for+data+analysis&SORT=D/Ypython+for+data+analysis&SORT=D&SUBKEY=python+for+data+analysis/1%2C38%2C38%2CB/frameset&FF=Ypython+for+data+analysis&SORT=D&1%2C1%2C)
+* [Think Python by Allen Downey](http://greenteapress.com/thinkpython2/html/index.html)
 * [Stack Overflow -- Your new best friend](http://stackoverflow.com/)
