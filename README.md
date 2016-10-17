@@ -3,6 +3,8 @@
 
 ## [Course Homepage](http://data557.surge.sh)
 
+## [HW Assignment Directions](http://unhhw.surge.sh)
+
 >“There will be no foolish wand-waving or silly incantations in this class..."
 
 ### *Objectives & Outcomes*
